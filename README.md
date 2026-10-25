@@ -96,6 +96,8 @@ Coloca los CSV en la misma carpeta del notebook, ajusta las rutas como en la opc
 - Los resultados son deterministas: no hay muestreo aleatorio, así que cualquier persona obtendrá las mismas cifras.
 
 ---
+**Enlace para acceso**
+https://colab.research.google.com/drive/1DLUxnGLrCwQJXWpzuWAfhkNMSZvYq_bO?usp=sharing
 
 ## 👤 Autor
 
